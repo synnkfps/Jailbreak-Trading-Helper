@@ -5,39 +5,39 @@ Helper to check if your trade is balanced, difference between trades and more!
 ## Vehicles
 |  Name  | Image | Value |
 |--------|-------|-------|
-| Agent | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005986803913850911/New_Project_70.png" alt="Agent" width="90" height="60"> | 2,000,000
-| Airtail | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005983018403512510/New_Project_56.png" alt="Airtail" width="90" height="60"> | 1,350,000
-| Arachnid | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005987002279268393/New_Project_71.png" alt="Arachnid" width="90" height="60"> | 45,000,000
-| Banana | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005986511335981066/unknown.png" alt="Banana" width="90" height="60"> | 7,500,000
-| Bandit | <img src="https://media.discordapp.net/attachments/1005873955632066590/1055176573612990524/the-bandit-season-13-submission-v0-9lt1ln7drp0a1-transformed.webp" alt="Bandit" width="90" height="60"> | 2,500,000
-| Beam | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005983602728779946/New_Project_58.png" alt="Beam" width="90" height="60"> | 50,000,000
-| Beignet | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005881606688485406/New_Project_52.png" alt="Beignet" width="90" height="60"> | 13,500,000
-| Bloxy | <img src="https://media.discordapp.net/attachments/1005873955632066590/1022902979336093696/unknown.png" alt="Bloxy" width="90" height="60"> | 1,250,000
-| Brulee | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005874328501506068/New_Project_49.png" alt="Brulee" width="90" height="60"> | 10,000,000
-| Celsior | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005987650798362695/New_Project_74.png" alt="Celsior" width="90" height="60"> | 13,500,000
-| Classic | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005985704834240625/New_Project_66.png" alt="Classic" width="90" height="60"> | 170,000
-| Crew Capsule | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005987851302883388/New_Project_75.png" alt="Crew Capsule" width="90" height="60"> | 7,500,000
-| Goliath | <img src="https://media.discordapp.net/attachments/1005873955632066590/1055175163303444510/latest.png" alt="Goliath" width="90" height="60"> | 2,500,000
-| Icebreaker | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005984280691884073/New_Project_60.png" alt="Icebreaker" width="90" height="60"> | 20,000,000
-| JB8 | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005982679675719861/New_Project_54.png" alt="JB8" width="90" height="60"> | 7,500,000
-| JackRabbit | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005987264536510524/New_Project_72.png" alt="JackRabbit" width="90" height="60"> | 650,000
-| Javelin | <img src="https://media.discordapp.net/attachments/1055931265657876640/1067986342157492345/Screen-Shot-2022-11-15-at-81959-PM-transformed.png" alt="Javelin" width="90" height="60"> | 13,000,000
-| Macaron | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005984524104118422/New_Project_61.png" alt="Macaron" width="90" height="60"> | 2,650,000
-| Megalodon | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005984033756422254/New_Project_59.png" alt="Megalodon" width="90" height="60"> | 800,000
-| Mighty | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005984719080542258/New_Project_62.png" alt="Mighty" width="90" height="60"> | 144,000
-| Molten | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005877931744178287/New_Project_51.png" alt="Molten" width="90" height="60"> | 5,500,000
-| Posh | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005985439368351877/New_Project_65.png" alt="Posh" width="90" height="60"> | 210,000
-| Raptor | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005987489170858114/New_Project_73.png" alt="Raptor" width="90" height="60"> | 11,000,000
-| Rattler | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005986249636589609/New_Project_68.png" alt="Rattler" width="90" height="60"> | 2,100,000
-| SUV | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005985225626615890/New_Project_64.png" alt="SUV" width="90" height="60"> | 200,000
-| Shell Classic | <img src="https://media.discordapp.net/attachments/1013818378995114036/1014016114461769798/New_Project_80.png" alt="Shell Classic" width="90" height="60"> | 800,000
-| Snake | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005988056970559570/New_Project_76.png" alt="Snake" width="90" height="60"> | 1,250,000
-| Steed | <img src="https://media.discordapp.net/attachments/928286332390875136/988567062567845978/unknown.png" alt="Steed" width="90" height="60"> | 210,000
-| Tiny Toy | <img src="https://media.discordapp.net/attachments/1005873955632066590/1019677671740952676/BabyCamaroTempPageList.webp" alt="Tiny Toy" width="90" height="60"> | 600,000
-| Torero | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005983329344049172/New_Project_57.png" alt="Torero" width="90" height="60"> | 2,500,000
-| Torpedo | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005982359545454623/New_Project_53.png" alt="Torpedo" width="90" height="60"> | 65,000,000
 | Volt | <img src="https://media.discordapp.net/attachments/1076276168333983745/1077638618232913991/Screenshot_20230220_075655_3.png" alt="Volt" width="90" height="60"> | 850,000
+| Brulee | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005874328501506068/New_Project_49.png" alt="Brulee" width="90" height="60"> | 10,000,000
+| Molten | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005877931744178287/New_Project_51.png" alt="Molten" width="90" height="60"> | 5,500,000
+| Beignet | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005881606688485406/New_Project_52.png" alt="Beignet" width="90" height="60"> | 13,500,000
+| Torpedo | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005982359545454623/New_Project_53.png" alt="Torpedo" width="90" height="60"> | 65,000,000
+| JB8 | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005982679675719861/New_Project_54.png" alt="JB8" width="90" height="60"> | 7,500,000
+| Airtail | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005983018403512510/New_Project_56.png" alt="Airtail" width="90" height="60"> | 1,350,000
+| Torero | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005983329344049172/New_Project_57.png" alt="Torero" width="90" height="60"> | 2,500,000
+| Beam | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005983602728779946/New_Project_58.png" alt="Beam" width="90" height="60"> | 50,000,000
+| Megalodon | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005984033756422254/New_Project_59.png" alt="Megalodon" width="90" height="60"> | 800,000
+| Icebreaker | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005984280691884073/New_Project_60.png" alt="Icebreaker" width="90" height="60"> | 20,000,000
+| Macaron | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005984524104118422/New_Project_61.png" alt="Macaron" width="90" height="60"> | 2,650,000
+| Mighty | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005984719080542258/New_Project_62.png" alt="Mighty" width="90" height="60"> | 230,000
+| Steed | <img src="https://media.discordapp.net/attachments/928286332390875136/988567062567845978/unknown.png" alt="Steed" width="90" height="60"> | 250,000
+| SUV | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005985225626615890/New_Project_64.png" alt="SUV" width="90" height="60"> | 340,000
+| Posh | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005985439368351877/New_Project_65.png" alt="Posh" width="90" height="60"> | 375,000
+| Classic | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005985704834240625/New_Project_66.png" alt="Classic" width="90" height="60"> | 210,000
 | Volt4x4 | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005986048511316088/New_Project_67.png" alt="Volt4x4" width="90" height="60"> | 3,750,000
+| Rattler | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005986249636589609/New_Project_68.png" alt="Rattler" width="90" height="60"> | 2,100,000
+| Banana | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005986511335981066/unknown.png" alt="Banana" width="90" height="60"> | 7,500,000
+| Agent | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005986803913850911/New_Project_70.png" alt="Agent" width="90" height="60"> | 2,000,000
+| Arachnid | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005987002279268393/New_Project_71.png" alt="Arachnid" width="90" height="60"> | 45,000,000
+| JackRabbit | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005987264536510524/New_Project_72.png" alt="JackRabbit" width="90" height="60"> | 650,000
+| Celsior | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005987650798362695/New_Project_74.png" alt="Celsior" width="90" height="60"> | 13,500,000
+| Raptor | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005987489170858114/New_Project_73.png" alt="Raptor" width="90" height="60"> | 11,000,000
+| Crew Capsule | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005987851302883388/New_Project_75.png" alt="Crew Capsule" width="90" height="60"> | 7,500,000
+| Snake | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005988056970559570/New_Project_76.png" alt="Snake" width="90" height="60"> | 1,250,000
+| Shell Classic | <img src="https://media.discordapp.net/attachments/1013818378995114036/1014016114461769798/New_Project_80.png" alt="Shell Classic" width="90" height="60"> | 800,000
+| Tiny Toy | <img src="https://media.discordapp.net/attachments/1005873955632066590/1019677671740952676/BabyCamaroTempPageList.webp" alt="Tiny Toy" width="90" height="60"> | 700,000
+| Bloxy | <img src="https://media.discordapp.net/attachments/1005873955632066590/1022902979336093696/unknown.png" alt="Bloxy" width="90" height="60"> | 1,250,000
+| Javelin | <img src="https://media.discordapp.net/attachments/1055931265657876640/1067986342157492345/Screen-Shot-2022-11-15-at-81959-PM-transformed.png" alt="Javelin" width="90" height="60"> | 13,000,000
+| Goliath | <img src="https://media.discordapp.net/attachments/1005873955632066590/1055175163303444510/latest.png" alt="Goliath" width="90" height="60"> | 2,500,000
+| Bandit | <img src="https://media.discordapp.net/attachments/1005873955632066590/1055176573612990524/the-bandit-season-13-submission-v0-9lt1ln7drp0a1-transformed.webp" alt="Bandit" width="90" height="60"> | 2,500,000
 
 ## Textures / Spoilers / Rims
 |  Name  | Image | Value |

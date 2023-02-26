@@ -1,11 +1,11 @@
 import requests 
 import json 
 
-x = requests.get('https://jbvalues-app.herokuapp.com/itemdata2') # probably gonna get patched but yeah
+x = requests.get('https://jbvalues-app.herokuapp.com/itemdata2')
 response = json.loads(x.text)
 
 items = {}
-advanced = {} # actually not in use
+advanced = {}
 
 BLACK = '\x1b[30m'
 RED = '\x1b[31m'
@@ -34,7 +34,7 @@ items['421s'] = items['megalodon']
 items['ufo'] = '500,000'
 
 def main():
-    your = input(f'{GREEN}Type your trade: ').split(' ')
+    your = input(f'{GREEN}Type your trade: ').strip().split(' ')
     tmp = []
     for i in your:
         for j in items:
@@ -43,7 +43,7 @@ def main():
                 break # break patch
     your = tmp 
 
-    them = input(f'{YELLOW}Type his trade: ').split(' ')
+    them = input(f'{YELLOW}Type his trade: ').strip().split(' ')
     tmp = []
     for i in them:
         for j in items:
@@ -61,7 +61,7 @@ def main():
     his_value = his_value[:his_value.index('.')]
     
     print()
-    
+
     print_formatted(f'{GREEN}Your trade value: {BLUE}{your_value}')
     print_formatted(f'{YELLOW}His trade value: {BLUE}{his_value}')
 
@@ -78,4 +78,5 @@ def main():
     print_formatted(f'{YELLOW}Difference: {difference}')
 
 
-main()
+while True:
+    main()

@@ -1,6 +1,17 @@
 # Jailbreak Trading Helper
 Helper to check if your trade is balanced, difference between trades and more!
 
+# Usage
+`py helper.py`
+
+both trade inputs have to be `car car car` (car name without spaces and space to separate them, example: `jb8 brulee checkers torpedo spinner`)<br>
+it will automatically fetch everything and tell if you're overpaying/underpaying or if the trade is fair (also its gonna tell the profit/loss)
+
+#### Credits to
+- [JBValues](https://jbvalues.com/values) : Vehicles/Cosmetics API
+- [Python](https://python.org/) : :brain:
+
+
 # Items / Values
 ## Vehicles
 |  Name  | Image | Value |
@@ -64,3 +75,7 @@ Helper to check if your trade is balanced, difference between trades and more!
 | Vanta Black | <img src="https://media.discordapp.net/attachments/1037076686337998928/1045553013349158963/vanta.png?width=500&height=500" alt="Vanta Black" width="90" height="60"> | 22,500,000
 | Void | <img src="https://media.discordapp.net/attachments/1055931265657876640/1061404891790192700/void.png?width=1980&height=1203" alt="Void" width="90" height="60"> | 35,000,000
 | Winter Camo | <img src="https://media.discordapp.net/attachments/1055931265657876640/1067985918113370192/wintercamo-transformed-transformed.png?width=1192&height=1192" alt="Winter Camo" width="90" height="60"> | 2,500,000
+
+![image](https://user-images.githubusercontent.com/93355393/221409748-edfa04c8-24e5-4685-91eb-30842f21491f.png)
+![image](https://user-images.githubusercontent.com/93355393/221409817-df6d69ec-e9ee-4288-9ff7-b7317c9c6dda.png)
+![image](https://user-images.githubusercontent.com/93355393/221409879-1f7934e5-f18d-4b02-b249-d8a6cb71121a.png)

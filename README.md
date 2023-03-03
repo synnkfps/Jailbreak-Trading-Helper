@@ -37,6 +37,7 @@ it will automatically fetch everything and tell if you're overpaying/underpaying
 | Megalodon | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005984033756422254/New_Project_59.png" alt="Megalodon" width="90" height="60"> | 800,000
 | Mighty | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005984719080542258/New_Project_62.png" alt="Mighty" width="90" height="60"> | 230,000
 | Molten | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005877931744178287/New_Project_51.png" alt="Molten" width="90" height="60"> | 5,500,000
+| Parsian | <img src="https://media.discordapp.net/attachments/1055931265657876640/1081217231045804073/Parisan_Main.webp" alt="Parsian" width="90" height="60"> | 3,750,000
 | Posh | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005985439368351877/New_Project_65.png" alt="Posh" width="90" height="60"> | 375,000
 | Raptor | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005987489170858114/New_Project_73.png" alt="Raptor" width="90" height="60"> | 11,000,000
 | Rattler | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005986249636589609/New_Project_68.png" alt="Rattler" width="90" height="60"> | 2,100,000

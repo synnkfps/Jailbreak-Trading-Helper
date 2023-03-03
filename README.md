@@ -9,7 +9,7 @@ it will automatically fetch everything and tell if you're overpaying/underpaying
 
 #### Credits to
 - [JBValues](https://jbvalues.com/values) : Vehicles/Cosmetics API
-- [Python](https://python.org/) : :brain:
+- [Python](https://python.org/) : coding
 
 
 # Items / Values

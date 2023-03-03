@@ -15,6 +15,7 @@ it will automatically fetch everything and tell if you're overpaying/underpaying
 # Items / Values
 ## Vehicles
 |  Name  | Image | Value |
+|--------|-------|-------|
 | Agent | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005986803913850911/New_Project_70.png" alt="Agent" width="90" height="60"> | 2,000,000
 | Airtail | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005983018403512510/New_Project_56.png" alt="Airtail" width="90" height="60"> | 1,350,000
 | Arachnid | <img src="https://media.discordapp.net/attachments/1005873955632066590/1005987002279268393/New_Project_71.png" alt="Arachnid" width="90" height="60"> | 45,000,000

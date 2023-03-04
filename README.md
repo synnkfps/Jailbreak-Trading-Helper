@@ -72,7 +72,7 @@ it will automatically fetch everything and tell if you're overpaying/underpaying
 | Snow Flake | <img src="https://media.discordapp.net/attachments/1055931265657876640/1067685392976986162/snowflake-image_on_jbvalues.com..png" alt="Snow Flake" width="90" height="60"> | 8,000,000
 | Snowstorm | <img src="https://media.discordapp.net/attachments/1055931265657876640/1061065951560347739/snowstorm-transformed.png" alt="Snowstorm" width="90" height="60"> | 13,000,000
 | Spinner | <img src="https://media.discordapp.net/attachments/1055931265657876640/1061425984814985226/spinner.png?width=1969&height=1199" alt="Spinner" width="90" height="60"> | 67,500,000
-| Thrusters | <img src="https://media.discordapp.net/attachments/1055931265657876640/1065860837652316270/Screen_Shot_2023-01-10_at_9.56.09_PM-removebg-preview.png" alt="Thrusters" width="90" height="60"> | 31,250,000
+| Thrusters | <img src="https://media.discordapp.net/attachments/1055931265657876640/1065860837652316270/Screen_Shot_2023-01-10_at_9.56.09_PM-removebg-preview.png" alt="Thrusters" width="90" height="60"> | 32,500,000
 | Vanta Black | <img src="https://media.discordapp.net/attachments/1037076686337998928/1045553013349158963/vanta.png?width=500&height=500" alt="Vanta Black" width="90" height="60"> | 22,500,000
 | Void | <img src="https://media.discordapp.net/attachments/1055931265657876640/1061404891790192700/void.png?width=1980&height=1203" alt="Void" width="90" height="60"> | 35,000,000
 | Winter Camo | <img src="https://media.discordapp.net/attachments/1055931265657876640/1067985918113370192/wintercamo-transformed-transformed.png?width=1192&height=1192" alt="Winter Camo" width="90" height="60"> | 2,500,000
